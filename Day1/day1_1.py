@@ -1,0 +1,1 @@
+print("hello world ai boot camp")
